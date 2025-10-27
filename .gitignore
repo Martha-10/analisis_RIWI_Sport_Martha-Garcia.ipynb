@@ -1,0 +1,46 @@
+# === Entorno virtual ===
+venv/
+ENV/
+
+# === Variables de entorno ===
+.env
+.env.*
+
+# === Archivos temporales de Python ===
+__pycache__/
+*.py[cod]
+*$py.class
+
+# === Archivos de notebooks ===
+.ipynb_checkpoints/
+*.nbconvert.ipynb
+
+# === Archivos del sistema ===
+.DS_Store
+Thumbs.db
+
+# === Archivos de VS Code ===
+.vscode/
+*.code-workspace
+
+# === Archivos de logs y caché ===
+*.log
+*.tmp
+.cache/
+*.sqlite3
+
+# === Datos o credenciales ===
+*.db
+*.sqlite
+data/
+*.csv
+*.xlsx
+*.json
+
+# === Configuración local o ejemplos ===
+# Este archivo SÍ se sube (ejemplo de variables)
+!env.example
+
+# === Archivos SQL ===
+# Descomentado para que los .sql SÍ se suban
+#!*.sql

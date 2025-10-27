@@ -1,0 +1,88 @@
+# 📊 Informe Ejecutivo de Rendimiento de Ventas
+
+---
+
+## 💡 Resumen Ejecutivo
+
+El rendimiento de ventas muestra una **sólida base financiera** con un **Gasto Promedio por Pedido (Ticket Promedio)** de **$558.44**.  
+
+Sin embargo, la **alta dispersión en el gasto**, evidenciada por una **Desviación Estándar de $280.45** y la diferencia entre la **Media ($558.44)** y la **Moda ($297.00)**, sugiere que un gran volumen de pedidos es de bajo valor, mientras que las transacciones de alto valor inflan el promedio.
+
+Las **categorías de Tenis ($132,212.0)** y **Baloncesto ($125,623.0)** son las principales generadoras de ingresos, superando los **$125,000** cada una.  
+
+El **"Pantalón Puma Premium 687 cm0gs"** es el **producto estrella**, liderando tanto en **Ingreso Total ($4,630.0)** como en **Cantidad Vendida (16 unidades)**.  
+
+📈 **Estrategia sugerida:** Enfocar los esfuerzos en capitalizar estos líderes de negocio y en **impulsar el valor del carrito de compra** en los pedidos de valor inferior (cercanos a la Moda).
+
+---
+
+## 🔑 Key Performance Indicators (KPIs) Clave
+
+| Indicador | Valor | Interpretación |
+|------------|--------|----------------|
+| 🎟️ Ticket Promedio por Pedido (AOV) | **$558.44** | Mide el valor promedio de cada transacción |
+| 👥 Ticket Promedio por Cliente (LTV Promedio) | **$5,584.44** | Indica recurrencia o pedidos múltiples por cliente |
+| 📉 Desviación Estándar del Gasto | **$280.45** | Alta variabilidad entre pedidos de bajo y alto valor |
+| 📊 Rango Intercuartílico (IQR) | **$476.00** | Dispersión del 50% central de los pedidos |
+| 🏆 Categoría Top por Ingreso | **Tenis ($132,212.0)** | Principal generadora de ingresos |
+| 👕 Producto Estrella | **Pantalón Puma Premium 687 cm0gs (16 unidades)** | Mayor volumen y facturación |
+
+> Estos indicadores muestran una estructura de ventas concentrada y la necesidad de estrategias de fidelización y aumento del ticket promedio.
+
+---
+
+## 🖼️ Visualizaciones Clave para la Dirección
+
+### 1. Distribución del Gasto por Pedido
+
+📊 **Análisis:**
+La distribución del gasto está **sesgada positivamente**:  
+la **Media ($558.44)** es superior a la **Moda ($297.00)**, lo que indica que la mayoría de las transacciones se concentran en valores bajos, con una **cola de pedidos de alto valor** que eleva el promedio.
+
+💡 **Acción sugerida:**  
+Implementar **estrategias de cross-selling y up-selling** dirigidas a clientes con pedidos en el rango modal para aumentar el valor del ticket promedio.
+
+---
+
+### 2. Rendimiento de las 5 Principales Categorías por Ingreso
+
+📈 **Análisis:**
+Las categorías **Tenis** y **Baloncesto** dominan la contribución al ingreso total, superando los **$125,000** cada una.  
+Les siguen **Accesorios**, **Fútbol** y **Fitness** con menores aportes.
+
+💡 **Acción sugerida:**
+- Asignar **mayor presupuesto de marketing** y asegurar **stock continuo** para **Tenis y Baloncesto**.  
+- Investigar los factores que impulsan su éxito y **replicarlos en categorías menos rentables** como Fitness.
+
+---
+
+### 3. Top Productos por Ingreso vs. Cantidad Vendida
+
+📊 **Análisis:**
+El **Pantalón Puma Premium 687 cm0gs** y la **Raqueta Adidas Professional 443** son los **pilares del negocio**, liderando ambas métricas (16 unidades vendidas cada uno).
+
+🔍 **Observación:**  
+Existe una **correlación positiva entre volumen e ingreso**, lo que indica una demanda sólida y precios eficientes.
+
+💡 **Acción sugerida:**
+- Mantener un **suministro constante** de estos **Top 5 productos**.  
+- Utilizarlos como **“productos gancho”** para promocionar artículos complementarios o de mayor margen.
+
+---
+
+## 🧭 Conclusión Estratégica
+
+- Las ventas muestran un **negocio sólido pero concentrado** en pocas categorías y productos.  
+- Es esencial **incrementar el gasto medio por cliente** y **diversificar los ingresos**.  
+- La **fidelización inteligente** de clientes con bajo ticket promedio representa la **mayor oportunidad de crecimiento inmediato**.
+
+🚀 **Próximos pasos recomendados:**
+1. Implementar **programas de lealtad** enfocados en clientes de bajo LTV.  
+2. Desarrollar **estrategias de cross-selling y bundles**.  
+3. Ajustar **promociones y pricing** según elasticidad de demanda por categoría.  
+4. Monitorear mensualmente los **KPIs de AOV, LTV y dispersión de gasto** para medir impacto.
+
+---
+
+**📌 Resultado esperado:**  
+Una estructura de ventas más equilibrada, con **mayor ticket promedio**, **menor dependencia en categorías top** y **una base de clientes más recurrente**.
